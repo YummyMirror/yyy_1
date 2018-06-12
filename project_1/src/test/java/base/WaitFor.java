@@ -42,6 +42,10 @@ public class WaitFor {
         return wait.until(elementToBeClickable(locator));
     }
 
+    public WebElement elementClickable(WebElement element) {
+        return wait.until(elementToBeClickable(element));
+    }
+
     /**
      * Method uses for checking if List of WebElements is visible
      * @param locator of List of WebElements, which will be checked on visibility

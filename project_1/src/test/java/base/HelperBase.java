@@ -6,6 +6,8 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
 import java.io.IOException;
 
 /**
@@ -55,6 +57,10 @@ public class HelperBase {
      */
     protected void click(By locator) {
         wait.elementClickable(locator).click();
+    }
+
+    protected void click(WebElement element) {
+        wait.elementClickable(element).click();
     }
 
     /**
