@@ -15,11 +15,19 @@ public class Testik extends TestBase {
     }
 
     @Test
-    public void test() {
+    public void validLogin() {
         app.login().loginAs(new User().setLogin("admin")
                                       .setPassword("secret"));
 
         assertTrue(app.login().isUserLoggedIn());
+    }
+
+    @Test
+    public void invalidLogin() {
+        app.login().loginAs(new User().setLogin("admin")
+                                      .setPassword("secret1"));
+
+        assertTrue(! app.login().isUserLoggedIn());
     }
 
     @AfterMethod
