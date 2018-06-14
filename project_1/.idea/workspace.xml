@@ -37,13 +37,11 @@
       <file leaf-file-name="Testik.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding>
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/helper/LoginHelper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding>
                 <element signature="e#517#518#0" expanded="true" />
                 <element signature="e#594#595#0" expanded="true" />
@@ -98,10 +96,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="63" />
-    <option name="y" value="122" />
-    <option name="width" value="1573" />
-    <option name="height" value="865" />
+    <option name="x" value="50" />
+    <option name="y" value="27" />
+    <option name="width" value="1712" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -153,10 +151,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="F:/yyy_1/project_1/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -224,6 +225,35 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Testik.invalidLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project_!" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Testik" />
+      <option name="METHOD_NAME" value="invalidLogin" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="Testik.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="project_!" />
       <extension name="coverage">
@@ -278,10 +308,12 @@
     <list>
       <item itemvalue="TestNG.Testik.test" />
       <item itemvalue="TestNG.Testik" />
+      <item itemvalue="TestNG.Testik.invalidLogin" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Testik" />
+        <item itemvalue="TestNG.Testik.invalidLogin" />
         <item itemvalue="TestNG.Testik.test" />
       </list>
     </recent_temporary>
@@ -312,6 +344,24 @@
     <history-entry file="Testik_test - 2018.06.12 at 22h 22m 00s.xml">
       <configuration name="Testik.test" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Testik - 2018.06.12 at 22h 35m 24s.xml">
+      <configuration name="Testik" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testik_test - 2018.06.14 at 22h 14m 50s.xml">
+      <configuration name="Testik.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testik_invalidLogin - 2018.06.14 at 23h 03m 23s.xml">
+      <configuration name="Testik.invalidLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testik_invalidLogin - 2018.06.14 at 23h 03m 33s.xml">
+      <configuration name="Testik.invalidLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testik_invalidLogin - 2018.06.14 at 23h 03m 43s.xml">
+      <configuration name="Testik.invalidLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Testik - 2018.06.14 at 23h 03m 52s.xml">
+      <configuration name="Testik" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -319,18 +369,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32963374" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32963374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45061043" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -349,37 +399,119 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/model/LoginData.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/annotation/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/LoginHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="68">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/annotation/Source.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="119">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/LoginHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/LoginHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/model/LoginData.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/annotation/Source.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -397,38 +529,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dataProvider/AllDataProviders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/helper/CookieHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dataProvider/AllDataProviders.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/CookieHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/helper/NavigationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/helper/WiserHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/helper/WiserHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -461,12 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
-          <folding>
-            <element signature="e#1255#1256#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1415#1416#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,26 +578,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="docComment;class#HelperBase#0" />
-            <element signature="docComment;method#url#0;class#HelperBase#0" />
-            <element signature="docComment;method#input#0;class#HelperBase#0" />
-            <element signature="docComment;method#click#0;class#HelperBase#0" />
-            <element signature="e#1606#1607#0" expanded="true" />
-            <element signature="e#1660#1661#0" expanded="true" />
-            <element signature="e#1752#1753#0" expanded="true" />
-            <element signature="e#1771#1772#0" expanded="true" />
-            <element signature="docComment;method#isElementPresent#0;class#HelperBase#0" />
-            <element signature="e#1915#1916#0" expanded="true" />
-            <element signature="e#1973#1974#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/helper/LoginHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
             <element signature="e#517#518#0" expanded="true" />
             <element signature="e#594#595#0" expanded="true" />
@@ -503,13 +594,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="374">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
           </folding>
         </state>
       </provider>
