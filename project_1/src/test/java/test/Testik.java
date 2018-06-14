@@ -18,10 +18,18 @@ public class Testik extends TestBase {
 
     @Test(dataProviderClass = AllDataProviders.class, dataProvider = "validUsers")
     @Source(value = "user.csv")
-    public void test(User user) {
+    public void validLogin(User user) {
         app.login().loginAs(user);
 
         assertTrue(app.login().isUserLoggedIn());
+    }
+
+    @Test
+    public void invalidLogin() {
+        app.login().loginAs(new User().setLogin("admin")
+                                      .setPassword("secret1"));
+
+        assertTrue(! app.login().isUserLoggedIn());
     }
 
     @AfterMethod
