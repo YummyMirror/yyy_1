@@ -23,6 +23,7 @@ public class AllDataProviders {
             Source annotation = method.getAnnotation(Source.class);
             BufferedReader buffReader = new BufferedReader(new FileReader(new File(DATA_FOLDER + annotation.value())));
             String line = buffReader.readLine();
+            StringBuilder builder = new StringBuilder();
             switch (annotation.type()) {
                 case CSV:
                     while (line != null) {
