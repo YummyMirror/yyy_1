@@ -1,6 +1,8 @@
 package test;
 
+import annotation.Source;
 import base.TestBase;
+import dataProvider.AllDataProviders;
 import model.User;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -14,10 +16,10 @@ public class Testik extends TestBase {
         app.navigateTo().mainPage();
     }
 
-    @Test
-    public void test() {
-        app.login().loginAs(new User().setLogin("admin")
-                                      .setPassword("secret"));
+    @Test(dataProviderClass = AllDataProviders.class, dataProvider = "validUsers")
+    @Source(value = "user.csv")
+    public void test(User user) {
+        app.login().loginAs(user);
 
         assertTrue(app.login().isUserLoggedIn());
     }
