@@ -37,11 +37,13 @@
       <file leaf-file-name="Testik.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            <state relative-caret-position="544">
+              <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
               <folding>
                 <element signature="e#920#921#0" expanded="true" />
                 <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
                 <element signature="e#605#606#0" expanded="true" />
                 <element signature="e#641#642#0" expanded="true" />
               </folding>
@@ -585,6 +587,8 @@
           <folding>
             <element signature="e#920#921#0" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
             <element signature="e#641#642#0" expanded="true" />
           </folding>
@@ -724,11 +728,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        <state relative-caret-position="544">
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
           <folding>
             <element signature="e#920#921#0" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
             <element signature="e#641#642#0" expanded="true" />
           </folding>
