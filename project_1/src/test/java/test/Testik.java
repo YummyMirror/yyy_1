@@ -32,6 +32,11 @@ public class Testik extends TestBase {
         assertTrue(! app.login().isUserLoggedIn());
     }
 
+    @Test
+    public void test3() {
+        System.out.println("Hello World !!!");
+    }
+
     @AfterMethod
     public void logout() {
         app.login().logout();
