@@ -37,13 +37,15 @@
       <file leaf-file-name="Testik.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="629">
+              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding>
                 <element signature="e#920#921#0" expanded="true" />
                 <element signature="e#956#957#0" expanded="true" />
                 <element signature="e#1014#1015#0" expanded="true" />
                 <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
                 <element signature="e#605#606#0" expanded="true" />
                 <element signature="e#641#642#0" expanded="true" />
               </folding>
@@ -392,7 +394,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -589,6 +591,8 @@
             <element signature="e#956#957#0" expanded="true" />
             <element signature="e#1014#1015#0" expanded="true" />
             <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
             <element signature="e#641#642#0" expanded="true" />
           </folding>
@@ -728,13 +732,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/Testik.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="629">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
           <folding>
             <element signature="e#920#921#0" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
             <element signature="e#1014#1015#0" expanded="true" />
             <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
             <element signature="e#641#642#0" expanded="true" />
           </folding>

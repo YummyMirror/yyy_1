@@ -42,6 +42,11 @@ public class Testik extends TestBase {
         System.out.println("Hello World 2 !!!");
     }
 
+    @Test
+    public void test5() {
+        System.out.println("Hello World 3 !!!");
+    }
+
     @AfterMethod
     public void logout() {
         app.login().logout();
